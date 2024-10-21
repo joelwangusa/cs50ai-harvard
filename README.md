@@ -2,11 +2,13 @@
 
 This repository contains my solutions to the 12 projects from **CS50's Introduction to Artificial Intelligence with Python** course offered by Harvard University. These projects cover key topics in AI such as search algorithms, machine learning, natural language processing, and neural networks.
 
+The code has passed all the test cases from submit50/check50, feel free to email me joelwangusa@gmail.com if there is issue with the code.
+
 ## Certificate
 
-![Certificate](.certificate.png)
+![Certificate](./certificate.png)
 
-I have successfully completed the course and earned the certificate from Harvard. You can view the certificate above.
+I have completed the course and earned the certificate from Harvard. You can view the certificate above.
 
 ## Projects Overview
 
@@ -59,7 +61,3 @@ Here are the details of each project included in this repository:
 ### 12. Heredity
 - **Description**: A Bayesian network model to predict genetic inheritance of traits.
 - **Key Concepts**: Bayesian networks, probability theory.
-
-## How to Run the Projects
-
-Each project is contained in its own directory and has a `README.md` file with specific instructions on how to run the code. In general, you will need Python 3 installed along with the required libraries listed in the `requirements.txt` file.
