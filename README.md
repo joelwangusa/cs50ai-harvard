@@ -4,7 +4,7 @@ This repository contains my solutions to the 12 projects from **CS50's Introduct
 
 ## Certificate
 
-![Certificate](./path/to/certificate-image.png)
+![Certificate](.certificate.png)
 
 I have successfully completed the course and earned the certificate from Harvard. You can view the certificate above.
 
