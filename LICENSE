@@ -1,5 +1,0 @@
-### Instructions for the certificate image:
-1. Place your certificate image in your repository (e.g., in the root directory or an `images/` folder).
-2. Update the `![Certificate](./path/to/certificate-image.png)` line to point to the actual path of your image. For example, if your certificate image is in the root directory of your repo and named `certificate.png`, the line would be:
-   ```markdown
-   ![Certificate](./certificate.png)
